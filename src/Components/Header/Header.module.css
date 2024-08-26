@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+    display: flex;
+    /* align-items: center;
+    margin: auto; */
+    justify-content: center;
+  }
+  
+  header img {
+    width: 5rem;
+    object-fit: contain;
+    /* margin: 3rem auto 1rem auto; */
+    margin: 1rem;
+    filter: drop-shadow(0 0 8px rgba(0, 0, 0, 0.4));
+  }
+  
+  h1 {
+    font-family: "Caprasimo", cursive;
+    font-size: 3rem;
+    /* margin: 0 auto 3rem auto; */
+    margin: 1rem;
+    color: #3f3b00;
+  }
